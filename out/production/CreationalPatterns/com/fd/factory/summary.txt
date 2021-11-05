@@ -1,0 +1,3 @@
+Kullanıcı oluşturulan nesneleri bilmiyorsa,sadece abstraction ile fabrikayı çalıştırıp oluşturulan objeleri görebilir.
+kullanıcı bağımsız işler için tercih edilebilir. Yeni nesne oluşturmak için kullanılır.
+

@@ -1,0 +1,7 @@
+Factory method somut bir method üzerinden obje yaratmak için kullanılır.
+
+Fabrika metodu tasarım şablonu ne zaman kullanılır?
+Kullanıcı sınıf hangi altsınıfların kullanılması gerektiğini bilmiyorsa; Örneğin Application
+sınıfı Pdf ya da Work döküman tiplerini tanımıyor.
+Kullanıcı sınıf altsınıflardan nasıl nesne üretilmesi gerektiğini bilmiyorsa.
+Kullanıcı sınıf ihtiyaç duyulan nesnelerin oluşturulmasını altsınıflara delege etmek istiyorsa.

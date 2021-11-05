@@ -1,0 +1,4 @@
+Constructor private olmalı.
+Static bir member oluşturulmalı.
+Oluşturulan objeyi çağırmak için static memberı çağıracak static bir method kullanılmalı.
+Single object oluşturulup yenisinin oluşmasını engellemek için kullanılır.

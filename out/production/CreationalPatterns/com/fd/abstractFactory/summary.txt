@@ -1,0 +1,7 @@
+Object yaratma işini arayüze verir. Arayüz üzerinden object yaratılır.
+
+Abstract factory tasarım şablonu ne zaman kullanılır?
+Kullanıcı sınıf hangi altsınıfların kullanılması gerektiğini bilmiyorsa.
+Kullanıcı sınıf altsınıflardan nasıl nesne üretilmesi gerektiğini bilmiyorsa.
+Kullanıcı sınıf ihtiyaç duyulan nesnelerin oluşturulmasını altsınıflara delege etmek istiyorsa.
+Kullanıcı sınıf birden fazla nesne ailesi ile beraber çalışmak zorunda ise.
