@@ -7,6 +7,7 @@ public class Test {
 
         System.out.println(sO);
         System.out.println(sO1);
+        System.out.println(SingletonEnum.DOLAR);
         if(sO==sO1){
             System.out.println("equals");
 
